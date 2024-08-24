@@ -58,8 +58,8 @@ This is a smart Quiz Generator that generates a dynamic quiz from any uploaded t
 - Fork and Clone the repo using
 
 ```
-$ git clone https://github.com/PragatiVerma18/Fantastic-Falcons-1.0.git
-$ cd Fantastic-Falcons-1.0
+$ git clone https://github.com/priyanshu3082/Learnix.git
+$ cd Learnix
 ```
 
 - Change Branch to `webapp` using
