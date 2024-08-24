@@ -105,7 +105,7 @@ $ python app.py
 
 | S.No. | Name               | Role               | GitHub Username:octocat:                             |
 | ----- | ------------------ | ------------------ | ---------------------------------------------------- |
-| 1.    | Pragati Verma      | Frontend Developer | [@PragatiVerma18](https://github.com/PragatiVerma18) |
+| 1.    | Priyanshu Nayan      | Frontend Developer | [@PragatiVerma18](https://github.com/PragatiVerma18) |
 | 2.    | Kshitij Kotasthane | Backend Developer  | [@kshitij86](https://github.com/kshitij86)           |
 | 3.    | Vignesh S          | ML                 | [@telescopic](https://github.com/telescopic)         |
 
