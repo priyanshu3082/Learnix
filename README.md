@@ -1,6 +1,6 @@
-# MLH Quizzet
+# Learnix
 
-This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document using NLP. This can be used for self-analysis, question paper generation, and evaluation, thus reducing human effort.
+This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document by using API . This can be used for self-analysis, question paper generation, and evaluation, thus reducing human effort.
 
 [![Forks](https://img.shields.io/github/forks/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/network/members)
 [![Stars](https://img.shields.io/github/stars/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/stargazers)
