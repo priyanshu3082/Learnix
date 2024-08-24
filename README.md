@@ -2,14 +2,6 @@
 
 This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document by using API . This can be used for self-analysis, question paper generation, and evaluation, thus reducing human effort.
 
-[![Forks](https://img.shields.io/github/forks/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/network/members)
-[![Stars](https://img.shields.io/github/stars/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/PragatiVerma18/Fantastic-Falcons-1.0?style=social)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/watchers)
-[![PRs](https://img.shields.io/github/issues-pr/PragatiVerma18/Fantastic-Falcons-1.0)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/pulls)
-[![Issues](https://img.shields.io/github/issues/PragatiVerma18/Fantastic-Falcons-1.0)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/issues)
-[![License](https://img.shields.io/github/license/PragatiVerma18/Fantastic-Falcons-1.0)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PragatiVerma18/Fantastic-Falcons-1.0/graphs/commit-activity)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
 
 ## Features
 
