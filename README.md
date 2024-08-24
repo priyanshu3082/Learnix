@@ -91,7 +91,7 @@ $ python app.py
 
 > This is a hackathon project made by StatusCODE i.e. Learnix
 
-[![StatusCODE_1 Team Alias](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/113/145/datas/original.jpg)]
+<!--[![StatusCODE_1 Team Alias](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/113/145/datas/original.jpg)]-->
 
 ## Team:
 
